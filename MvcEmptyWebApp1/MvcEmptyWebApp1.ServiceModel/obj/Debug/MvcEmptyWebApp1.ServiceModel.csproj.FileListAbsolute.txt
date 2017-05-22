@@ -1,0 +1,7 @@
+C:\Users\Martynas Brazionis\SimpleApp\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\SimpleApp\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\Martynas Brazionis\SimpleApp\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Martynas Brazionis\SimpleApp\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\Martynas Brazionis\SimpleApp\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\SimpleApp\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\Martynas Brazionis\SimpleApp\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\CodeMash.MongoDbRepository.dll

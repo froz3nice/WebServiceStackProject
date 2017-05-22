@@ -1,0 +1,70 @@
+﻿@model MvcEmptyWebApp1.Models.PaymentTransactionsModel
+
+@{
+    ViewBag.Title = "TransactionList";
+}
+<body>
+    <h2>List of transactions</h2> 
+    @using (Html.BeginForm())
+    {
+
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <hr />
+            <div class="form-group">
+
+                <div class="form-group">
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(x => x.SelectedType, Model.GetTypesForUser(), new { @class = "btn btn-default" })
+                        <input type="submit" name="filter" value="filter" class="btn btn-default" />
+                       <!-- <input type="button" class="btn btn-warning" value="Add new payment" onclick="location.href='@Url.Action("NewPayment", "Auth")'" />-->
+                    </div>
+                </div>
+                <br />
+
+                <table class="table">
+                    <tr>
+                        <th>
+                            Transaction Id
+                        </th>
+                        <th>
+                            Description
+                        </th>
+                        <th>
+                            Amount
+                        </th>
+                        <th>
+                            Date Submitted
+                        </th>
+                    </tr>
+                    @foreach (var pay in Model.Transactions)
+                    {
+                        if (pay.Status != "generalError")
+                        {
+                        <tr>
+                            <td>
+                                @Html.ActionLink(pay.TransactionId, "TransactionDetails", new { TransactionID = pay.TransactionId }, new { style = "text-decoration:none;color:black;" })
+                            </td>
+                            <td>
+                                @Html.DisplayFor(x => pay.Description)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(a => pay.Amount)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(a => pay.CreatedOn)
+                            </td>
+
+                            @Html.HiddenFor(x => x.TransactionID, new { @Value = pay.TransactionId })                          
+                        </tr>
+                            }
+                   }
+                </table>
+            </div>
+        </div>
+
+    }
+  
+</body>
+

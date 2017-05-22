@@ -1,0 +1,130 @@
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\CodeMash.MongoDbRepository.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.xml
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.xml
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.xml
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\CodeMash.MongoDbRepository.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Core.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.xml
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.xml
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.xml
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\AuthorizeNet.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\AuthorizeNet.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\CodeMash.MongoDbRepository.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Authentication.MongoDb.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Authentication.MongoDb.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\AuthorizeNet.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\CodeMash.MongoDbRepository.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Core.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Authentication.MongoDb.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Authentication.MongoDb.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\AuthorizeNet.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\CodeMash.MongoDbRepository.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Core.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Authentication.MongoDb.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Bson.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Authentication.MongoDb.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.pdb

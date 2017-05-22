@@ -1,0 +1,23 @@
+﻿@model List<MvcEmptyWebApp1.Models.PaymentDetails>
+@{
+    ViewBag.Title = "Results";
+}
+
+<h2>Results</h2>
+@foreach (var pay in Model)
+{
+    <div class="row" style="border:1px solid black">
+        <div class="col-sm-8">
+            Name:       @Html.DisplayFor(x => pay.Name)
+            <br />
+            Surname:    @Html.DisplayFor(a => pay.Surname)
+            <br />
+            Age:        @Html.DisplayFor(a => pay.Age)
+        </div>
+        <div class="col-sm-4">
+            @Html.ActionLink("Update", "Update", new { Id = pay.Id , Name = pay.Name, Surname = pay.Surname,Age = pay.Age}) |
+            @Html.ActionLink("Delete", "Delete", new { id = pay.Id })
+        </div>
+    </div>
+    <br />
+}

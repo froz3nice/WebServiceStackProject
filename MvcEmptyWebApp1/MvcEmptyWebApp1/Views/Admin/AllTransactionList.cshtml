@@ -1,0 +1,84 @@
+﻿@model Tuple<List<AuthorizeNet.Transaction>, MvcEmptyWebApp1.Models.PaymentTransactionsModel>
+@{
+    ViewBag.Title = "TransactionList";
+}
+<body>
+    <h2>List of transactions</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <hr />
+            <div class="form-group">
+
+                <div class="form-group">
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(x => x.Item2.SelectedType, Model.Item2.GetTypes(), new { @class = "btn btn-default" })
+                        <input type="submit" name="filter" value="filter" class="btn btn-default" />
+                    </div>
+                </div>
+                <br />
+
+                <table class="table">
+                    <tr>
+                        <th>
+                            Transaction Id
+                        </th>
+                        <th>
+                            Transaction Status
+                        </th>
+                      @*<th>
+                            Customer ID
+                        </th>*@
+                        <th>
+                            Amount
+                        </th>
+                        <th>
+                            Date Submitted
+                        </th>
+                    </tr>
+                    @foreach (var pay in Model.Item1)
+                    {
+                        if (pay.Status != "generalError")
+                        {
+                            <tr>
+                                <td>
+                                    @Html.ActionLink(pay.TransactionID, "TransactionDetails", new { TransactionID = pay.TransactionID }, new { style = "text-decoration:none;color:black;" })
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(a => pay.Status)
+                                </td>
+                                @*<td>
+                                    @Html.DisplayFor(a => pay.CustomerID)
+                                </td>*@
+                                <td>
+                                    @Html.DisplayFor(a => pay.SettleAmount)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(a => pay.DateSubmitted)
+                                </td>
+
+                                @Html.HiddenFor(x => x.Item2.TransactionID, new { @Value = pay.TransactionID })
+                                
+                                   @if (pay.Status == "settledSuccessfully")
+                                    {
+                                        <td>
+                                            @Html.ActionLink("Refund", "AreYourReallyWantToRefund", new MvcEmptyWebApp1.Models.PaymentTransactionsModel { TransactionID = pay.TransactionID, SelectedType = pay.Status})
+                                        </td>
+                                    }
+                                    else
+                                    {
+                                        <td>Not refundable</td>
+                                    }
+
+                            </tr>
+                        }
+                    }
+                </table>
+            </div>
+        </div>
+
+    }
+
+</body>

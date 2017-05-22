@@ -1,0 +1,71 @@
+﻿@model List<MvcEmptyWebApp1.Models.RegisterModel>
+@{
+    ViewBag.Title = "Customers";
+}
+<body>
+    <h2>Customers</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <hr />
+            <div class="form-group">
+                <br />
+                <table class="table">
+                    <tr>
+                        <th>
+                            Customer ID
+                        </th>
+                        <th>
+                            First name
+                        </th>
+                        <th>
+                            Last name
+                        </th>
+                        @*<th>
+                                Customer ID
+                            </th>*@
+                        <th>
+                            Username
+                        </th>
+                    </tr>
+                    @foreach(var model in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(x => model.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(x => model.FirstName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(a => model.LastName)
+                            </td>
+                            @*<td>
+                                    @Html.DisplayFor(a => pay.CustomerID)
+                                </td>*@
+                            <td>
+                                @Html.ActionLink(model.UserName, "CustomerDetails", new { UserName = model.UserName }, new { style = "text-decoration:none;color:black;" })
+                            </td>                
+                            <td>
+                                @if (model.IfAdmin == false)
+                                {
+                                    @Html.ActionLink("Delete Customer", "DeleteCustomer", new { UserName = model.UserName }, new { style = "btn btn-warning" })
+                                }
+                            </td>
+                        </tr>
+                      
+                   }
+                </table>
+            </div>
+        </div>
+
+    }
+
+</body>
+
+
+
+
+

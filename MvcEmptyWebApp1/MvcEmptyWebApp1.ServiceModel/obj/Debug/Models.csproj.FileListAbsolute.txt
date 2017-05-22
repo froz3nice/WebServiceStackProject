@@ -1,0 +1,63 @@
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\CodeMash.MongoDbRepository.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\Project\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\CodeMash.MongoDbRepository.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\Desktop\d\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\AuthorizeNet.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\CodeMash.MongoDbRepository.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\AuthorizeNet.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Client.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Common.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Text.dll
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Client.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Common.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Text.xml
+C:\Users\Martynas Brazionis\poop2\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\AuthorizeNet.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\CodeMash.MongoDbRepository.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Client.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Common.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Text.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Client.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Common.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Text.xml
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\Downloads\Payments\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\AuthorizeNet.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\CodeMash.MongoDbRepository.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Client.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Common.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Text.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Client.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Common.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\bin\Debug\ServiceStack.Text.xml
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.dll
+D:\gatovProject\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceModel\obj\Debug\MvcEmptyWebApp1.ServiceModel.pdb

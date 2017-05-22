@@ -1,0 +1,320 @@
+﻿@model MvcEmptyWebApp1.Models.TransactionDeltailsModel
+
+@{
+    ViewBag.Title = "TransactionDetails";
+}
+
+<h2>Transaction details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AuthorizationAmount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuthorizationAmount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AuthorizationCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuthorizationCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AVSCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AVSCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AVSResponse)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AVSResponse)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BatchSettledOn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BatchSettledOn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BatchSettlementID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BatchSettlementID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BatchSettlementState)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BatchSettlementState)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CardExpiration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardExpiration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CardNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CardResponse)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardResponse)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CardResponseCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardResponseCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CardType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardType)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CAVVCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CAVVCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CAVVResponse)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CAVVResponse)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateSubmitted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateSubmitted)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Duty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Duty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DutyDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DutyDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InvoiceNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InvoiceNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsRecurring)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsRecurring)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PONumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PONumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RequestedAmount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RequestedAmount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ResponseCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ResponseCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ResponseReason)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ResponseReason)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SettleAmount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SettleAmount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Shipping)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipping)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShippingDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShippingDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tax)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tax)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaxDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxExempt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaxExempt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransactionID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransactionID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransactionType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransactionType)
+        </dd>
+
+    </dl>
+</div>
+@Html.ActionLink("Back To List", "AllTransactionList","Admin")
+
+
